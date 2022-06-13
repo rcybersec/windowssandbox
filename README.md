@@ -1,5 +1,5 @@
 # windowssandbox
-Windows Sandbox config files and launch scripts that execute inside of the sandbox once executed. Can be used standalone or in conjunction with my LinkedIn post here:
+Windows Sandbox config files and launch scripts that execute inside of the sandbox once executed. Can be used standalone or in conjunction with my LinkedIn post here: https://www.linkedin.com/pulse/quick-easy-malware-analysis-using-windows-sandbox-elastic-craft/
 
 # Usage
 - Ensure Windows Sandbox is installed on your system (Windows 10/11 Pro only) https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
